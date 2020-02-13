@@ -1,0 +1,5 @@
+D:\projects\c#\primtenyezo\primtenyezo\bin\Debug\primtenyezo.exe.config
+D:\projects\c#\primtenyezo\primtenyezo\bin\Debug\primtenyezo.exe
+D:\projects\c#\primtenyezo\primtenyezo\bin\Debug\primtenyezo.pdb
+D:\projects\c#\primtenyezo\primtenyezo\obj\Debug\primtenyezo.exe
+D:\projects\c#\primtenyezo\primtenyezo\obj\Debug\primtenyezo.pdb
